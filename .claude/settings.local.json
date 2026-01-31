@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npm run dev)",
+      "Bash(npm install:*)",
+      "Bash(rustc:*)",
+      "Bash(cargo:*)",
+      "Bash(del:*)",
+      "Bash(node:*)",
+      "Bash(git init)",
+      "Bash(git remote add:*)"
+    ]
+  }
+}
