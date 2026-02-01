@@ -9,3 +9,9 @@ node_modules
 
 # Tauri
 src-tauri/target/
+
+# Local Docs & Configs
+TODO_IMPROVEMENTS.md
+CURRENT_WORK_LOG.md
+CLAUDE.md
+.Claude/
