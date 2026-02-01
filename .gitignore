@@ -15,3 +15,14 @@ TODO_IMPROVEMENTS.md
 CURRENT_WORK_LOG.md
 CLAUDE.md
 .Claude/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.db-journal
+src-tauri/dashboard.db
+src-tauri/dashboard.db-journal
